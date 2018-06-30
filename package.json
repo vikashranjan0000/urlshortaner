@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/vikashranjan0000/urlshortaner/issues"
   },
-  "homepage": "https://github.com/vikashranjan0000/urlshortaner#readme"
+  "homepage": "https://github.com/vikashranjan0000/urlshortaner#readme",
+  "dependencies": {
+    "bijective-shortener": "^0.2.2",
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "path": "^0.12.7"
+  }
 }
