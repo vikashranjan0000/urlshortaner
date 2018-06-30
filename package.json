@@ -1,0 +1,23 @@
+{
+  "name": "urlshortaner",
+  "version": "1.0.0",
+  "description": "Implementing a ur shortaner service to convert any url into shorter form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikashranjan0000/urlshortaner.git"
+  },
+  "keywords": [
+    "url",
+    "shortner"
+  ],
+  "author": "vikash ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikashranjan0000/urlshortaner/issues"
+  },
+  "homepage": "https://github.com/vikashranjan0000/urlshortaner#readme"
+}
